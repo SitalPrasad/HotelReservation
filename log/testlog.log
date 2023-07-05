@@ -1,0 +1,245 @@
+2023-06-21 10:43:42,772 - BaseClass8.class.getName() -INFO - inside if
+2023-06-21 10:43:47,246 - BaseClass8.class.getName() -INFO - inside teardown
+2023-06-21 10:44:31,243 - BaseClass8.class.getName() -INFO - inside if
+2023-06-21 10:44:34,818 - BaseClass8.class.getName() -INFO - inside teardown
+2023-06-21 10:45:20,109 - BaseClass8.class.getName() -INFO - inside if
+2023-06-21 10:45:24,957 - BaseClass8.class.getName() -INFO - inside teardown
+2023-06-22 20:52:02,118 - BaseClass9.claa -INFO - inside if
+2023-06-22 20:52:59,823 - BaseClass9.claa -INFO - inside if
+2023-06-22 20:53:31,865 - BaseClass9.claa -INFO - inside if
+2023-06-22 20:54:15,031 - BaseClass9.claa -INFO - inside if
+2023-06-22 20:54:17,973 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:06:24,316 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:06:27,127 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:06:46,369 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:06:49,638 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:09:21,223 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:09:24,144 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:10:13,423 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:10:16,298 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:11:15,981 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:11:18,875 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:12:30,836 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:12:33,742 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:13:58,237 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:14:01,378 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:14:49,730 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:14:52,575 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:17:27,187 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:17:29,705 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:18:16,344 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:18:18,795 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:20:06,732 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:20:09,191 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:21:05,449 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:21:26,146 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:21:28,638 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:22:09,237 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:22:11,673 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:23:31,668 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:23:34,108 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:24:01,995 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:24:04,455 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:24:35,948 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:24:38,491 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:26:36,011 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:26:38,501 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:27:12,701 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:27:15,146 - BaseClass9.claa -INFO - inside test
+2023-06-22 21:27:56,290 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:28:57,276 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:31:02,775 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:31:44,493 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:33:53,367 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:34:52,833 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:36:32,040 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:37:30,461 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:39:01,588 - BaseClass9.claa -INFO - inside if
+2023-06-22 21:41:46,514 - BaseClass9.claa -INFO - inside test1
+2023-06-22 21:42:38,825 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:04:16,107 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:05:01,239 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:06:48,965 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:07:38,620 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:07:41,695 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:10:21,074 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:10:23,683 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:19:14,781 - BaseClass8.class.getName() -INFO - inside if
+2023-06-22 22:19:19,559 - BaseClass8.class.getName() -INFO - inside teardown
+2023-06-22 22:23:28,581 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:24:21,391 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:24:23,813 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:24:24,348 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:24:24,349 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:24:24,714 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:24:24,824 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:24:24,825 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:24:49,054 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:24:51,367 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:24:51,854 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:24:51,855 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:26:52,961 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:26:55,418 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:26:55,916 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:26:55,918 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:28:21,710 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:28:24,175 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:28:24,635 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:28:24,636 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:29:16,747 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:29:19,081 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:29:19,534 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:29:19,535 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:31:40,331 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:31:42,774 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:31:43,256 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:31:43,257 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:34:04,967 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:34:07,362 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:34:07,840 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:34:07,841 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:34:08,234 - BaseClass9.claa -INFO - catch
+2023-06-22 22:34:54,375 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:34:56,704 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:34:57,221 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:34:57,222 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:34:57,599 - BaseClass9.claa -INFO - catch
+2023-06-22 22:36:51,531 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:36:53,891 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:36:54,505 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:36:54,506 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:36:55,054 - BaseClass9.claa -INFO - catch
+2023-06-22 22:37:33,422 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:37:35,866 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:37:36,358 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:37:36,359 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:37:36,735 - BaseClass9.claa -INFO - catch
+2023-06-22 22:38:20,934 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:38:23,507 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:38:24,209 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:38:24,210 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:38:24,743 - BaseClass9.claa -INFO - catch
+2023-06-22 22:40:39,958 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:40:42,324 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:40:42,755 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:40:42,756 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:40:43,130 - BaseClass9.claa -INFO - catch
+2023-06-22 22:41:28,775 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:41:31,209 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:41:31,649 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:41:31,650 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:41:32,025 - BaseClass9.claa -INFO - catch
+2023-06-22 22:42:09,904 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:42:12,350 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:42:12,790 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:42:12,791 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:42:13,183 - BaseClass9.claa -INFO - catch
+2023-06-22 22:42:44,787 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:42:47,177 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:42:47,634 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:42:47,635 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:42:48,000 - BaseClass9.claa -INFO - catch
+2023-06-22 22:43:25,039 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:43:27,431 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:43:27,915 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:43:27,916 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:43:28,304 - BaseClass9.claa -INFO - catch
+2023-06-22 22:44:44,554 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:44:47,040 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:44:47,476 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:44:47,478 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:44:47,834 - BaseClass9.claa -INFO - catch
+2023-06-22 22:45:18,273 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:45:20,621 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:45:21,069 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:45:21,070 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:45:21,437 - BaseClass9.claa -INFO - catch
+2023-06-22 22:47:28,861 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:47:31,327 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:47:31,818 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:47:31,819 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:47:32,193 - BaseClass9.claa -INFO - catch
+2023-06-22 22:48:04,754 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:48:07,201 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:48:07,756 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:48:07,757 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:48:08,133 - BaseClass9.claa -INFO - catch
+2023-06-22 22:49:38,653 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:49:41,049 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:49:41,512 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:49:41,513 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:49:41,889 - BaseClass9.claa -INFO - catch
+2023-06-22 22:51:31,159 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:51:33,569 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:51:34,005 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:51:34,006 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:51:34,389 - BaseClass9.claa -INFO - catch
+2023-06-22 22:52:50,346 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:52:52,709 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:52:53,200 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:52:53,200 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:52:53,624 - BaseClass9.claa -INFO - catch
+2023-06-22 22:54:51,183 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:54:53,639 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:54:54,086 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:54:54,087 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:54:54,468 - BaseClass9.claa -INFO - catch
+2023-06-22 22:55:51,470 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:55:53,862 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:55:54,299 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:55:54,300 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:55:54,675 - BaseClass9.claa -INFO - catch
+2023-06-22 22:56:36,284 - BaseClass9.claa -INFO - inside if
+2023-06-22 22:56:38,669 - BaseClass9.claa -INFO - inside test1
+2023-06-22 22:56:39,135 - BaseClass9.claa -INFO - inside test2
+2023-06-22 22:56:39,136 - BaseClass9.claa -INFO - inside test3
+2023-06-22 22:56:39,506 - BaseClass9.claa -INFO - catch
+2023-06-22 23:01:34,170 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:01:36,889 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:01:37,330 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:01:37,332 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:01:37,721 - BaseClass9.claa -INFO - catch
+2023-06-22 23:03:18,479 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:03:21,056 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:03:21,539 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:03:21,540 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:03:21,909 - BaseClass9.claa -INFO - catch
+2023-06-22 23:04:34,777 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:04:37,136 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:04:37,622 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:04:37,623 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:04:37,998 - BaseClass9.claa -INFO - catch
+2023-06-22 23:05:43,043 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:05:45,431 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:05:45,880 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:05:45,881 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:05:46,249 - BaseClass9.claa -INFO - catch
+2023-06-22 23:07:17,319 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:07:20,024 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:07:21,349 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:07:21,353 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:07:21,854 - BaseClass9.claa -INFO - catch
+2023-06-22 23:15:38,402 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:16:21,964 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:19:42,146 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:20:09,731 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:21:56,826 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:21:59,744 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:22:00,188 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:22:00,189 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:22:00,558 - BaseClass9.claa -INFO - catch
+2023-06-22 23:22:25,042 - BaseClass9.claa -INFO - inside if
+2023-06-22 23:22:27,927 - BaseClass9.claa -INFO - inside test1
+2023-06-22 23:22:28,461 - BaseClass9.claa -INFO - inside test2
+2023-06-22 23:22:28,462 - BaseClass9.claa -INFO - inside test3
+2023-06-22 23:22:28,828 - BaseClass9.claa -INFO - catch
+2023-06-23 09:17:33,841 - Hello -INFO - inside if
+2023-06-23 09:17:37,855 - Hello -INFO - inside catch
+2023-06-23 09:18:37,026 - Hello -INFO - inside if
+2023-06-23 09:18:41,035 - Hello -INFO - inside catch
+2023-06-23 09:18:42,043 - Hello -INFO - inside tearDown
+2023-06-24 04:08:13,919 - Hello -INFO - inside if
+2023-06-24 04:09:58,475 - Hello -INFO - inside if
+2023-06-24 04:13:37,399 - Hello -INFO - inside if
+2023-07-05 06:35:37,738 - Hello -INFO - inside if
+2023-07-05 07:03:54,326 - Hello -INFO - hhhhhhh
